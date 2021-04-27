@@ -1795,13 +1795,13 @@ a.elementor-responsive-switcher {
   margin-bottom: 5px; }
 
 .elementor-group-control-blur .elementor-slider {
-  background: url("../images/blur.png");
+  background: url("https://vinay-ai.github.io/decaf-wordpress/wp-content/plugins/elementor/assets/images/blur.png");
   -webkit-background-size: cover;
           background-size: cover;
   background-position: center; }
 
 .elementor-group-control-contrast .elementor-slider {
-  background: url("../images/contrast.png");
+  background: url("https://vinay-ai.github.io/decaf-wordpress/wp-content/plugins/elementor/assets/images/contrast.png");
   -webkit-background-size: 100% 100%;
           background-size: 100% 100%; }
 
